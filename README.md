@@ -195,9 +195,5 @@ plt.show()
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
 Feel free to modify the paths, project details, and any other relevant information to match your specific project setup.
