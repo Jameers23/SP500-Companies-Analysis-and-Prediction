@@ -92,7 +92,7 @@ df = df.fillna({
     'Revenuegrowth': revenuegrowth_median,
     'Weight': weight_median
 })
-
+```
 
 ## Exploratory Data Analysis (EDA)
 
